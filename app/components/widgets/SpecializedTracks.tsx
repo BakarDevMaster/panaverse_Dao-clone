@@ -305,7 +305,7 @@ function SpecializedTracks() {
   const data = programsData.find((program) => {
     return (program.slug===item );
 });
-console.log(data)
+
 
  
   return (
